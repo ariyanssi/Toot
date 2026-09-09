@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.Events;
 
 public class DialoguePlayer : MonoBehaviour
@@ -199,4 +199,5 @@ public class DialoguePlayer : MonoBehaviour
         Debug.Log("[DialoguePlayer] دیالوگ تمام شد.");
         onFinished?.Invoke();
     }
+    
 }
