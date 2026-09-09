@@ -54,6 +54,7 @@
     <Compile Include="Assets\Scripts\TutorialSequenceberry.cs" />
     <Compile Include="Assets\Scripts\SequenceManager.cs" />
     <Compile Include="Assets\Scripts\playerMover.cs" />
+    <Compile Include="Assets\Scripts\CameraZoneTrigger.cs" />
     <Compile Include="Assets\Scripts\TootMover.cs" />
     <Compile Include="Assets\Scripts\MainMenuManager.cs" />
     <Compile Include="Assets\Scripts\DialoguePopup.cs" />
