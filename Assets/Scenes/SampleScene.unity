@@ -15581,7 +15581,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialoguePlayer
   dialoguePanels:
-  - {fileID: 1423935412}
+  - {fileID: 172537663}
   followTarget: {fileID: 1539730643}
   targetCanvas: {fileID: 1133886454}
   heightAboveHead: 2
