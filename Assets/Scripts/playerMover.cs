@@ -7,14 +7,15 @@ public class PlayerMovement : MonoBehaviour
     public float acceleration = 10f;
     public float deceleration = 15f;
 
-    private Animator animator;
+    [SerializeField] private Animator blueAnimator;
+    [SerializeField] private Animator whiteAnimator;
+
     private Rigidbody2D rb;
     private float moveDirection = 0f;
     private float currentSpeed = 0f;
 
     void Start()
     {
-        animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
     }
 
@@ -44,7 +45,12 @@ public class PlayerMovement : MonoBehaviour
         }
 
         bool isMoving = Mathf.Abs(currentSpeed) > 0.05f;
-        animator.SetBool("IsMoving", isMoving);
+
+        if (blueAnimator != null)
+            blueAnimator.SetBool("IsMoving", isMoving);
+
+        if (whiteAnimator != null)
+            whiteAnimator.SetBool("IsMoving", isMoving);
 
         rb.linearVelocity = new Vector2(currentSpeed, rb.linearVelocity.y);
     }

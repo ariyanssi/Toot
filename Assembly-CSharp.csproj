@@ -53,6 +53,7 @@
     <Compile Include="Assets\Scripts\sequents.cs" />
     <Compile Include="Assets\Scripts\TutorialSequenceberry.cs" />
     <Compile Include="Assets\Scripts\SequenceManager.cs" />
+    <Compile Include="Assets\Scripts\PlayerSkinManager.cs" />
     <Compile Include="Assets\Scripts\playerMover.cs" />
     <Compile Include="Assets\Scripts\CameraZoneTrigger.cs" />
     <Compile Include="Assets\Scripts\TootMover.cs" />
@@ -61,6 +62,7 @@
     <Compile Include="Assets\Scripts\IgnoreBerryBlue.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\ParallaxLayer.cs" />
+    <Compile Include="Assets\Scripts\ColorChangeItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
