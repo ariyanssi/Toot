@@ -3,25 +3,28 @@ using UnityEngine;
 public class IgnoreBerryBlue : MonoBehaviour
 {
     private Collider2D myCollider;
+    private Collider2D playerCollider;
 
     void Start()
     {
         myCollider = GetComponent<Collider2D>();
 
-        // 
-        GameObject[] berries = GameObject.FindGameObjectsWithTag("Player");
-        foreach (GameObject berry in berries)
-        {
-            Collider2D col = berry.GetComponent<Collider2D>();
-            if (col != null)
-                Physics2D.IgnoreCollision(myCollider, col);
-        }
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if (player != null)
+            playerCollider = player.GetComponent<Collider2D>();
+
+        Debug.Log("Player found: " + (player != null) + " | playerCollider: " + (playerCollider != null));
     }
 
-    //
-    void OnCollisionEnter2D(Collision2D collision)
+    void FixedUpdate()
     {
-        if (collision.gameObject.CompareTag("berryblue"))
-            Physics2D.IgnoreCollision(myCollider, collision.collider);
+        if (playerCollider == null || myCollider == null) return;
+
+        GameObject blueSkin = GameObject.FindGameObjectWithTag("BerryBlue");
+        bool isBlueActive = (blueSkin != null && blueSkin.activeSelf);
+
+        Physics2D.IgnoreCollision(myCollider, playerCollider, isBlueActive);
+
+        Debug.Log("isBlueActive: " + isBlueActive + " | blueSkin found: " + (blueSkin != null));
     }
 }

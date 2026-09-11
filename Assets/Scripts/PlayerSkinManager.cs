@@ -16,4 +16,9 @@ public class PlayerSkinManager : MonoBehaviour
         blueSkin.SetActive(false);
         whiteSkin.SetActive(true);
     }
+
+    public bool IsBlueSkinActive()
+    {
+        return blueSkin.activeSelf;
+    }
 }
