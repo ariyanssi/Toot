@@ -58,6 +58,7 @@
     <Compile Include="Assets\Scripts\CameraZoneTrigger.cs" />
     <Compile Include="Assets\Scripts\TootMover.cs" />
     <Compile Include="Assets\Scripts\MainMenuManager.cs" />
+    <Compile Include="Assets\Scripts\DisableColliderWhenDialogueEnds.cs" />
     <Compile Include="Assets\Scripts\DialoguePopup.cs" />
     <Compile Include="Assets\Scripts\IgnoreBerryBlue.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
