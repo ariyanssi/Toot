@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 877f5bf07b6ff2443b2abbfed02b4cbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6838470525223820948
+    second: torob ashk_0
+  - first:
+      213: -2458732246044905433
+    second: torob ashk_1
+  - first:
+      213: -3597801126409725703
+    second: torob ashk_2
+  - first:
+      213: -2757301586817215458
+    second: torob ashk_3
+  - first:
+      213: -3924262812325309019
+    second: torob ashk_4
+  - first:
+      213: -7833107232584567096
+    second: torob ashk_5
+  - first:
+      213: 9079161535858544946
+    second: torob ashk_6
+  - first:
+      213: 3230064344094175477
+    second: torob ashk_7
+  - first:
+      213: -3240837617833632547
+    second: torob ashk_8
+  - first:
+      213: 3651192635171365811
+    second: torob ashk_9
+  - first:
+      213: -8533459785451152999
+    second: torob ashk_10
+  - first:
+      213: -8274143156664022982
+    second: torob ashk_11
+  - first:
+      213: -2275554485051040768
+    second: torob ashk_12
+  - first:
+      213: 3814118902266724001
+    second: torob ashk_13
+  - first:
+      213: 13048893741956705
+    second: torob ashk_14
+  - first:
+      213: 6676389641494630703
+    second: torob ashk_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: torob ashk_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ed1fef5b027ee50800000000000000
+      internalID: 6838470525223820948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720f1b49c04d0edd0800000000000000
+      internalID: -2458732246044905433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 16
+        width: 176
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f819dfffea021ec0800000000000000
+      internalID: -3597801126409725703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 16
+        width: 178
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14932bc0d81cb9d0800000000000000
+      internalID: -2757301586817215458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_4
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 16
+        width: 178
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5131a83c73a89c0800000000000000
+      internalID: -3924262812325309019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_5
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 16
+        width: 174
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6f04a39763b4390800000000000000
+      internalID: -7833107232584567096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_6
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 16
+        width: 174
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2311d3b3059affd70800000000000000
+      internalID: 9079161535858544946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_7
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 16
+        width: 171
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f07367486e73dc20800000000000000
+      internalID: 3230064344094175477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_8
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 16
+        width: 174
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc9d467b5b3603d0800000000000000
+      internalID: -3240837617833632547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_9
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 16
+        width: 178
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b369e95b54aba230800000000000000
+      internalID: 3651192635171365811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_10
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 16
+        width: 178
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9995a1f898f039980800000000000000
+      internalID: -8533459785451152999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_11
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 16
+        width: 176
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38cf4623a65c2d80800000000000000
+      internalID: -8274143156664022982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_12
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 13
+        width: 175
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c5c73904b9b60e0800000000000000
+      internalID: -2275554485051040768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_13
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aef5bcfee87ee430800000000000000
+      internalID: 3814118902266724001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 120
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e733456eb5e2000800000000000000
+      internalID: 13048893741956705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob ashk_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f219263810d47ac50800000000000000
+      internalID: 6676389641494630703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      torob ashk_0: 6838470525223820948
+      torob ashk_1: -2458732246044905433
+      torob ashk_10: -8533459785451152999
+      torob ashk_11: -8274143156664022982
+      torob ashk_12: -2275554485051040768
+      torob ashk_13: 3814118902266724001
+      torob ashk_14: 13048893741956705
+      torob ashk_15: 6676389641494630703
+      torob ashk_2: -3597801126409725703
+      torob ashk_3: -2757301586817215458
+      torob ashk_4: -3924262812325309019
+      torob ashk_5: -7833107232584567096
+      torob ashk_6: 9079161535858544946
+      torob ashk_7: 3230064344094175477
+      torob ashk_8: -3240837617833632547
+      torob ashk_9: 3651192635171365811
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

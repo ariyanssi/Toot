@@ -418,7 +418,7 @@ Transform:
   m_GameObject: {fileID: 548310618}
   serializedVersion: 2
   m_LocalRotation: {x: 0.037515767, y: 0, z: 0, w: 0.9992961}
-  m_LocalPosition: {x: 559.9, y: 301.1, z: 0}
+  m_LocalPosition: {x: 707, y: 301.1, z: 0}
   m_LocalScale: {x: 0.77, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1029,10 +1029,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b04804a2a2b41e54d9e696be8454a08a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MainMenuManager
-  continueButton: {fileID: 0}
-  startButton: {fileID: 0}
-  settingsButton: {fileID: 0}
-  exitButton: {fileID: 0}
+  continueButton: {fileID: 700516284}
+  startButton: {fileID: 1298578060}
+  settingsButton: {fileID: 674813290}
+  exitButton: {fileID: 1680690038}
   mainGameSceneName: SampleScene
 --- !u!4 &1191127255
 Transform:

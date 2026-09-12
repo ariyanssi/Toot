@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 73161b5e5cf23fc49b607a9732538b5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7000515040491676149
+    second: torob pelk_0
+  - first:
+      213: 2795486929103877715
+    second: torob pelk_1
+  - first:
+      213: -6084670080942379624
+    second: torob pelk_2
+  - first:
+      213: -3799841246453024031
+    second: torob pelk_3
+  - first:
+      213: 2166867289903565865
+    second: torob pelk_4
+  - first:
+      213: 8327666133492116233
+    second: torob pelk_5
+  - first:
+      213: 723981315345450695
+    second: torob pelk_6
+  - first:
+      213: -3758078309529019008
+    second: torob pelk_7
+  - first:
+      213: 2548914871052834471
+    second: torob pelk_8
+  - first:
+      213: 8954135093763815317
+    second: torob pelk_9
+  - first:
+      213: 8255327531534847978
+    second: torob pelk_10
+  - first:
+      213: 7649245367521924381
+    second: torob pelk_11
+  - first:
+      213: -6001377638863216665
+    second: torob pelk_12
+  - first:
+      213: 8495163416862151402
+    second: torob pelk_13
+  - first:
+      213: -1273115573116761384
+    second: torob pelk_14
+  - first:
+      213: 7440098400722624316
+    second: torob pelk_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: torob pelk_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f12949c653d62160800000000000000
+      internalID: 7000515040491676149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356fb770d809bc620800000000000000
+      internalID: 2795486929103877715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 16
+        width: 176
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d6bf1acc8ee8ba0800000000000000
+      internalID: -6084670080942379624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 16
+        width: 178
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea3a4ec480444bc0800000000000000
+      internalID: -3799841246453024031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_4
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 16
+        width: 178
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c8d12d152421e10800000000000000
+      internalID: 2166867289903565865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_5
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 16
+        width: 174
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b29def930d19370800000000000000
+      internalID: 8327666133492116233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_6
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 16
+        width: 174
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c68f25ab291c0a00800000000000000
+      internalID: 723981315345450695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_7
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 16
+        width: 171
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d1c6a40bf98dbc0800000000000000
+      internalID: -3758078309529019008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_8
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 16
+        width: 174
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a690db02909f5320800000000000000
+      internalID: 2548914871052834471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_9
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 16
+        width: 178
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597b6ae3d6a734c70800000000000000
+      internalID: 8954135093763815317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_10
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 16
+        width: 178
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef03adb6a0d09270800000000000000
+      internalID: 8255327531534847978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_11
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 16
+        width: 176
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1552f26224972a60800000000000000
+      internalID: 7649245367521924381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_12
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 13
+        width: 175
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efd59885d2d6bca0800000000000000
+      internalID: -6001377638863216665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_13
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae256fa4e12e4e570800000000000000
+      internalID: 8495163416862151402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 120
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da8b5aa12cf45ee0800000000000000
+      internalID: -1273115573116761384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torob pelk_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 57
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f160d731a804760800000000000000
+      internalID: 7440098400722624316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      torob pelk_0: 7000515040491676149
+      torob pelk_1: 2795486929103877715
+      torob pelk_10: 8255327531534847978
+      torob pelk_11: 7649245367521924381
+      torob pelk_12: -6001377638863216665
+      torob pelk_13: 8495163416862151402
+      torob pelk_14: -1273115573116761384
+      torob pelk_15: 7440098400722624316
+      torob pelk_2: -6084670080942379624
+      torob pelk_3: -3799841246453024031
+      torob pelk_4: 2166867289903565865
+      torob pelk_5: 8327666133492116233
+      torob pelk_6: 723981315345450695
+      torob pelk_7: -3758078309529019008
+      torob pelk_8: 2548914871052834471
+      torob pelk_9: 8954135093763815317
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

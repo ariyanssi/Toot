@@ -61,6 +61,8 @@
     <Compile Include="Assets\Scripts\DisableColliderWhenDialogueEnds.cs" />
     <Compile Include="Assets\Scripts\DialoguePopup.cs" />
     <Compile Include="Assets\Scripts\IgnoreBerryBlue.cs" />
+    <Compile Include="Assets\Scripts\WinTrigger.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\ParallaxLayer.cs" />
     <Compile Include="Assets\Scripts\ColorChangeItem.cs" />
